@@ -23,6 +23,10 @@
 		"jquery-form-styler": "^2.0.2",
 		"rateyo": "^2.3.2",
 		"sass": "^1.49.7",
-		"slick-carousel": "^1.8.1"
+		"slick-carousel": "^1.8.1",
+		"swiper": "^8.4.5"
+	},
+	"dependencies": {
+		"fullpage.js": "^4.0.15"
 	}
 }
