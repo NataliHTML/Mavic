@@ -7,10 +7,10 @@ html {
 	box-sizing: inherit;
 }
 
-ul[class],
-ol[class] {
-	padding: 0;
-}
+// ul[class],
+// ol[class] {
+// 	padding: 0;
+// }
 
 body,
 h1,
@@ -29,6 +29,7 @@ blockquote,
 dl,
 dd {
 	margin: 0;
+	padding: 0;
 }
 ul[class] {
 	list-style: none;
