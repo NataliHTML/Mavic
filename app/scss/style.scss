@@ -46,6 +46,15 @@
 		& + .menu__list-item {
 			padding-left: 20px;
 		}
+		&.active a {
+			text-decoration: underline;
+		}
+	}
+	&__list-phone {
+		display: none;
+	}
+	&__btn {
+		display: none;
 	}
 }
 .top {
@@ -129,6 +138,7 @@
 	}
 	&__slider {
 		max-width: 560px;
+		position: relative;
 		&::before {
 			content: "";
 			position: absolute;
